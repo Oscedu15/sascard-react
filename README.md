@@ -1,1 +1,1 @@
-Landing Pages con: React, Vitejs & Sass.
+Landing page creado con: React, Vitejs & Sass.

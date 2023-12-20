@@ -1,1 +1,1 @@
-Landing page creado con: React, Vitejs & Sass.
+Landing Page Responsive, creada con las siguientes tecnologias: React, Vitejs & Sass.
